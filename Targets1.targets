@@ -1,0 +1,6 @@
+<Project>
+  <Target Name="Test1" AfterTargets="Build">
+    <Message Importance="High" Text="from Targets1" />
+  </Target>
+</Project>
+
